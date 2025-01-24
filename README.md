@@ -125,7 +125,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-I extend our gratitude to:
+I extend my gratitude to:
 
 - **IIT Roorkee** for providing the infrastructure and resources.  
 - **Research Collaborators** for their valuable insights.  
