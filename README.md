@@ -6,9 +6,8 @@ This repository contains the implementation of an advanced medical image classif
 ## Key Features
 - **High Accuracy**: Achieved 97.5% accuracy on the MCSI dataset and 95.54% on the MSID dataset.
 - **Model Efficiency**: Reduced parameters by 28%, ensuring lower latency and hardware efficiency.
-- **Advanced Innovations**:
-  - **Cascaded Attention Module**: Reduces redundant computations in multi-head self-attention, enhancing feature extraction and model interpretability.
-  - **Focal Loss with Class-Specific Weights**: Effectively mitigates class imbalance, boosting minority class performance.
+- **Cascaded Attention Module**: Reduces redundant computations in multi-head self-attention, enhancing feature extraction and model interpretability.
+ 
 
 ---
 
